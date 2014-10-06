@@ -1,6 +1,6 @@
 {
   "name": "bem-like-class-list",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A tool for creating class-lists for addressing DOM elements using a bem-like syntax.",
   "main": "index.js",
   "scripts": {
