@@ -1,0 +1,25 @@
+{
+  "name": "bem-like-class-list",
+  "version": "0.0.0",
+  "description": "A tool for creating class-lists for addressing DOM elements using a bem-like syntax.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrew-filonenko/bem-like-class-list.git"
+  },
+  "keywords": [
+    "bem",
+    "react",
+    "class-list",
+    "css"
+  ],
+  "author": "Andrey Filonenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrew-filonenko/bem-like-class-list/issues"
+  },
+  "homepage": "https://github.com/andrew-filonenko/bem-like-class-list"
+}
